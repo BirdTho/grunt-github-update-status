@@ -1,0 +1,32 @@
+{
+  "name": "grunt-github-update-status",
+  "version": "0.0.1",
+  "description": "Easy tool to send status updates to github through grunt to notify github of a build status update or test failure on continuous integration tools.",
+  "main": "lib/githubUpdateStatus.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "github",
+    "api",
+    "updatestatus",
+    "update",
+    "status",
+    "grunt",
+    "continuous",
+    "integration",
+    "repo",
+    "ci",
+    "tool",
+    "contrib"
+  ],
+  "author": "Christopher Thomas",
+  "license": "MIT",
+  "dependencies": {
+    "github-api": "3.3.0"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "repository": "github:BirdTho/grunt-github-update-status"
+}
