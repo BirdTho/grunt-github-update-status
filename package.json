@@ -1,8 +1,8 @@
 {
   "name": "grunt-github-update-status",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Easy tool to send status updates to github through grunt to notify github of a build status update or test failure on continuous integration tools.",
-  "main": "lib/githubUpdateStatus.js",
+  "main": "tasks/githubUpdateStatus.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

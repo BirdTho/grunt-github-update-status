@@ -8,8 +8,6 @@ function isFunction(functionToCheck) {
 }
 
 module.exports = function (grunt) {
-
-
 	/**
 	 * Any input can be declared here as a function, if desired.
 	 * Valid input is

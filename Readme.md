@@ -1,4 +1,4 @@
-# grunt-github-update-status v0.0.1
+# grunt-github-update-status v0.0.2
 
 > Send build status from your CI pipeline or automated tools through the GitHub API to individual commit refs on github.com
 
@@ -193,3 +193,4 @@ Task submitted by [Christopher Thomas](https://github.com/BirdTho)
 
 ### History:
 - 0.0.1 It was releaseded!
+- 0.0.2 Grunt tasks need to go in the tasks/ subfolder, supposedly!
