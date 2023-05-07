@@ -23,7 +23,7 @@
   "author": "Christopher Thomas",
   "license": "MIT",
   "dependencies": {
-    "github-api": "3.3.0"
+    "github-api": "3.4.0"
   },
   "engines": {
     "node": ">=0.10.0"
